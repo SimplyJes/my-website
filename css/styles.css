@@ -129,12 +129,12 @@ hr {
 
 }
 .intro {
-  font-size: 1em;
+  font-size: 1rem;
   margin: auto;
   width: 30%;
 }
 .contact-message {
-  font-size: 1rem;
+  font-size: 5em;
   margin: 40px auto 60px;
 
 }
